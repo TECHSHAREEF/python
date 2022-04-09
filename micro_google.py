@@ -2,7 +2,7 @@
 #go to terminal & enter 'pip install google'.
 import webbrowser
 from googlesearch import search
-print("----Welcome To Shakeer's Google----\n".center(50))
+print("----Welcome To Sharif's Google----\n".center(50))
 print("Search:".center(50))
 inp=input("".center(20))
 print("\nWait Karo This Is Low budget Google...")
